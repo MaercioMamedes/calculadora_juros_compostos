@@ -19,3 +19,14 @@ reutilizáveis.
 resultados de cálculos de forma clara e legível.
 6. Explorar os dois modos de utilização em Python (Modo Notebook e Modo
 Script).
+
+
+### Execução
+
+Para executar e testar o código:
+
+link para o google calab: https://colab.research.google.com/drive/1AUFRYJyBTsdoOUllQqFKTII2IeOb7yx8?usp=sharing
+
+Clone do projeto:
+
+`git clone https://github.com/MaercioMamedes/calculadora_juros_compostos.git`

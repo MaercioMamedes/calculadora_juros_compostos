@@ -23,9 +23,10 @@ Script).
 
 ### Execução
 
-Para executar e testar o código:
+- Para conferir os resultados, utilize essa [planilha aqui](https://docs.google.com/spreadsheets/d/1kzDJX5lA2QAZhzKA7chyVxk5_dKRHwt-5Hx6mL6JOD0/edit?usp=sharing)
+- Para executar e testar o código:
 
-link para o google calab: https://colab.research.google.com/drive/1AUFRYJyBTsdoOUllQqFKTII2IeOb7yx8?usp=sharing
+- link para o google calab: https://colab.research.google.com/drive/1AUFRYJyBTsdoOUllQqFKTII2IeOb7yx8?usp=sharing
 
 Clone do projeto:
 
